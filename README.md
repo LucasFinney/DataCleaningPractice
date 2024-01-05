@@ -1,5 +1,6 @@
 # Used Car Prices Predictive Analysis
 A little practice space for applying the data cleaning and machine learning techniques from the Data Analysis in Python course from Coursera.
+Note: The Jupyter Notebook of interest is labeled "DataCleaning". The original goal for this was just to practice data cleaning and interfacing SQL and Python.
 
 ## 12/13/2023
 First day of messing around with this, and I've realized I ended pre-empting most of what I would end up doing in the course module. Whoops! Anyway, I started cleaning the data. 
