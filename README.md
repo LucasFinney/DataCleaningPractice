@@ -1,5 +1,5 @@
-# DataCleaningPractice
-A little practice space for applying the datacleaning techniques from the Data Analysis in Python course from Coursera
+# Used Car Prices Predictive Analysis
+A little practice space for applying the data cleaning and machine learning techniques from the Data Analysis in Python course from Coursera.
 
 ## 12/13/2023
 First day of messing around with this, and I've realized I ended pre-empting most of what I would end up doing in the course module. Whoops! Anyway, I started cleaning the data. 
