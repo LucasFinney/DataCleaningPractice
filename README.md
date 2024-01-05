@@ -14,3 +14,5 @@ To do:
 
 ## 1/5/2024
 Whoops... didn't update this for a while. The notebook has been expanded significantly. I continued from the last entry by cleaning the data, doing exploratory data analysis to determine the significant features, and eventually creating and testing a linear model. Overall results are fairly good, though the R^2 varies significantly from test to test. This may be due to the large portion being reserved as the "testing" set, but my money is on the problem being the lack of data in the higher price ranges. That's where the model seems to perform the worst.
+
+After doing a little bit more research, it seems that the original dataset wasn't for used cars at all. That would explain why it doesn't have anything like "age" or "mileage". This is the original source: https://archive.ics.uci.edu/dataset/10/automobile
